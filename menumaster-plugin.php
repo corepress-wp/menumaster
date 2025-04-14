@@ -3,7 +3,7 @@
  * Plugin Name: MenuMaster
  * Plugin URI: https://github.com/corepress-wp/menumaster
  * Description: Hide menu items in classic WordPress menus. Hidden menu items will not be displayed on the frontend but remain visible in the backend.
- * Version: 1.0.4
+ * Version: 1.0.5
  * Author: CorePress
  * Author URI: https://corepress.com/
  * License: GPL2
